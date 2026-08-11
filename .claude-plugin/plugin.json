@@ -1,0 +1,18 @@
+{
+  "name": "goals",
+  "version": "1.0.0",
+  "description": "Static agent skill for rewriting goals into measurable commitments and auditing outcomes, owners, evidence, and bridges. Static: no network calls, no remote fetch, no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/goals",
+  "repository": "https://github.com/andrewluxem/goals",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "goal-setting",
+    "okrs",
+    "skill-md"
+  ]
+}

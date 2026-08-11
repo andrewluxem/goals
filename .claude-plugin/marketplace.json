@@ -1,0 +1,24 @@
+{
+  "name": "goals",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Static agent skill for rewriting goals into measurable commitments and auditing outcomes, owners, evidence, and bridges.",
+  "plugins": [
+    {
+      "name": "goals",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Goal Rewrite, Goal Set, Goal Audit. Static: no network calls, no remote fetch, no auto-update. Version-pinned.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "goal-setting",
+        "okrs",
+        "skill-md"
+      ]
+    }
+  ]
+}
